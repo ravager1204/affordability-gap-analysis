@@ -1,0 +1,6 @@
+pandas==2.1.4
+matplotlib==3.8.2
+seaborn==0.13.0
+numpy==1.26.2
+fastparquet==2023.10.1
+pyarrow==14.0.1 
